@@ -24,3 +24,4 @@ This repository contains a part of code that is part of my project and will trac
 
 
 ## when the code works:
+![middle_point](https://user-images.githubusercontent.com/30235603/74566304-3fa0c680-4f84-11ea-8045-f019609c73b2.png)
