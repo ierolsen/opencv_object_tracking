@@ -1,6 +1,6 @@
 This repository contains a part of code that is part of my project and will track red objects with the servo motor.
 
-## Here is some functions I used
+## Here are some functions I used
 
 * **cv2.rectangle()** draws a box 
 	```python
