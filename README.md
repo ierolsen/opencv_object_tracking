@@ -35,7 +35,7 @@ This repository contains a part of code that is part of my project and will trac
 I just added some morphological transformations to video. They are called erode and dilate. 
 
 -> Erode 
-it rodes away the boundaries of foreground object and used to diminish the features of the image.
+it erodes away the boundaries of foreground object and used to diminish the features of the image.
 
 -> Dilate
 it increases the object area and used to accentuate features.
