@@ -26,12 +26,13 @@ This repository contains a part of code that is part of my project and will trac
 ## when the version 1.1 works:
 ![middle_point](https://user-images.githubusercontent.com/30235603/74566304-3fa0c680-4f84-11ea-8045-f019609c73b2.png)
 
+![v1](https://user-images.githubusercontent.com/30235603/76025848-c66f1080-5f3e-11ea-9337-e61c037f23c8.gif)
 
 ## and when the version 2.0 works:
 
 ![version2 0](https://user-images.githubusercontent.com/30235603/75790950-ed7de480-5d7c-11ea-98e3-c829494f7a13.png)
 
-
+![v2](https://user-images.githubusercontent.com/30235603/76025931-ebfc1a00-5f3e-11ea-8e81-49e3b70fa047.gif)
 
 ## what is the difference between version1.0 and version2.0 ?
 
