@@ -26,13 +26,12 @@ This repository contains a part of code that is part of my project and will trac
 ## when the version 1.1 works:
 ![middle_point](https://user-images.githubusercontent.com/30235603/74566304-3fa0c680-4f84-11ea-8045-f019609c73b2.png)
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:175%;position:relative;"><iframe width="260" height="455" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3rjjd8"></iframe></div><p><a href="https://imgflip.com/gif/3rjjd8">via Imgflip</a></p></div>
 
 ## and when the version 2.0 works:
 
 ![version2 0](https://user-images.githubusercontent.com/30235603/75790950-ed7de480-5d7c-11ea-98e3-c829494f7a13.png)
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:160.38%;position:relative;"><iframe width="260" height="417" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3rjjk4"></iframe></div><p><a href="https://imgflip.com/gif/3rjjk4">via Imgflip</a></p></div>
+<div style="width:341px;max-width:100%;"><div style="height:0;padding-bottom:169.5%;position:relative;"><iframe width="341" height="578" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3rjkht"></iframe></div><p><a href="https://imgflip.com/gif/3rjkht">via Imgflip</a></p></div>
 
 ## what is the difference between version1.0 and version2.0 ?
 
