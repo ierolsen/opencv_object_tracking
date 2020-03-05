@@ -31,7 +31,7 @@ This repository contains a part of code that is part of my project and will trac
 
 ![version2 0](https://user-images.githubusercontent.com/30235603/75790950-ed7de480-5d7c-11ea-98e3-c829494f7a13.png)
 
-<div style="width:341px;max-width:100%;"><div style="height:0;padding-bottom:169.5%;position:relative;"><iframe width="341" height="578" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3rjkht"></iframe></div><p><a href="https://imgflip.com/gif/3rjkht">via Imgflip</a></p></div>
+
 
 ## what is the difference between version1.0 and version2.0 ?
 
